@@ -5,10 +5,10 @@
 #include <Servo.h>
 #include "RTClib.h"
 
-#define FIREBASE_HOST "bilingual-semester-6-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "AIzaSyBCsygWWr-fmw8N-QJjKqKpy-ocqJHsMN0"
-#define WIFI_SSID "POCO X3 NFC"
-#define WIFI_PASSWORD "12345671"
+#define FIREBASE_HOST "Credentials"
+#define FIREBASE_AUTH "Credentials"
+#define WIFI_SSID "Credentials"
+#define WIFI_PASSWORD "Credentials"
 
 RTC_DS3231 rtc;
 HX711 scale;
